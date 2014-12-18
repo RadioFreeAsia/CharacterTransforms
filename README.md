@@ -41,3 +41,11 @@ Example Use:
 http://www.rfa.org/uyghur/?encoding=arabic
 http://www.rfa.org/uyghur/?encoding=cyrillic
 
+TODO
+=======
+Get this out of Python, and host as JSON so it's language independent
+Create "translation" function:
+  `translate(string, ToAlphabet, encoding='utf-8') #returns an encoded string in destination alphabet`  
+So users don't have to write the code to iterate over the string, but can simply call `translate()`
+  
+  
