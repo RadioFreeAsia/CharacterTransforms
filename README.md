@@ -6,14 +6,14 @@ There exists a one-to-one Unicode character mapping between characters in langua
 This repository contains Python Dictionary of character mappings for languages that have this property
 Currently supporting:
 
-Cantonese:
-   Traditional
-   Simplified
+Cantonese:<br>
+    Traditional<br>
+    Simplified<br>
 
-Uyghur:
-   Arabic
-   Latin
-   Cyrillic
+Uyghur:<br>
+   Arabic<br>
+   Latin<br>
+   Cyrillic<br>
 
 
 An example is the Cantonese 'China'
